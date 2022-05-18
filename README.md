@@ -4,9 +4,9 @@ This project .
 
 
 ```Bash
-// First terminal
+# First terminal
 npx hardhat node
-// Second terminal
+# Second terminal
 npx hardhat run scripts/deploy.ts --network localhost
 
 ```
